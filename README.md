@@ -1,5 +1,5 @@
 # KSTNYE9
-KSTNYE9-weibo-chaohua-signin-SKILL
+KSTNYE9-weibo-chaohua-checkin-SKILL
 
 
 # KSTNYE9 — 微博超话自动签到技能（weibo-chaohua-checkin-SKILL.md）
